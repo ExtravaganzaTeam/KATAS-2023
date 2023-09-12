@@ -5,8 +5,8 @@ dashboard to allow travelers to see all of their existing reservations organized
 or through their mobile device.
 
 ## users
-* 2 million active users/week
-* total users: 15 million (user accounts)
+* q2 million active users/week
+* qtotal users: 15 million (user accounts)
 
 ## requirements
 * Poll email looking for travel-related emails q Filter and whitelist certain emails
