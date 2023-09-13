@@ -20,6 +20,12 @@
 
 ![E-mail App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/e-mail_app_component.png "a title")
 
-## Integration Application Component
+## Travel System Integration Application Component
 
-![Integration App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/integration_app_component.png "a title")
+![Travel System Integration App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/travel_system_integration_app_component.png "a title")
+
+
+## Social Media Integration Application Component
+
+![Social Media Integration App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/social_media_integration_app_component.png "a title")
+
