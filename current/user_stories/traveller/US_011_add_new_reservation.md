@@ -34,7 +34,7 @@ Also, here are a few points that need to be addressed:
 
 #### Business Process Diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/US_011_add_new_reservation.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_011_add_new_reservation.png "a title")  
 
 
 
