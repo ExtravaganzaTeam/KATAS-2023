@@ -1,5 +1,9 @@
 # User stories space
 
+## Responsibility assignment
+
+![Responsibility assignment](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/requirements/responsibility_assignment.png "a title")  
+
 ## Targeted person user stories
 
 [US_001_view_trip_information](targeted_person/US_001_view_trip_information.md)
