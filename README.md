@@ -23,7 +23,9 @@ Problem description is available here [problem description](current/problem/prob
 
 User stories are available here [user stories](current/user_stories/README.md)  
 
-## System features
+## System requirements
+
+System requirements are available here [requirements](current/requirements/README.md)  
 
 
 ## Architecture Characteristics
