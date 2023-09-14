@@ -9,7 +9,8 @@ or through their mobile device.
 * total users: 15 million (user accounts)
 
 ## requirements
-* Poll email looking for travel-related emails q Filter and whitelist certain emails
+* Poll email looking for travel-related emails
+* Filter and whitelist certain emails
 * The system must interface with the agency’s
 existing airline, hotel, and car rental interface system to update travel details (delays, cancellations, updates, gate changes, etc.). Updates must be in the app within 5 minutes of an update (better than the competition)
 * Customers should be able to add, update, or delete existing reservations manually as well.
