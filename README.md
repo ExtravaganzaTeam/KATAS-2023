@@ -29,6 +29,8 @@ User stories are available here [user-stories](current/user_stories/README.md)
 
 ## Architecture
 
+The architecture specification is available here [architecture](current/architecture/README.md)  
+
 
 ## Milestones
 
