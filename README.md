@@ -16,6 +16,7 @@
 
 ## User stories
 
+User stories are available here [user-stories](current/user_stories/README.md)  
 
 ## System features
 
@@ -34,4 +35,4 @@
 
 ## ADRs
 
-[ADR_001](adr/ARD_001_Architecture_style.md)
+Architecture decision records are available here [adr](current/adr/README.md)  
