@@ -14,4 +14,4 @@ The integration must be seamless. It means that adding new supported systems sho
 
 
 
-[Go back](../../README.md)
+[Go back](../README.md)

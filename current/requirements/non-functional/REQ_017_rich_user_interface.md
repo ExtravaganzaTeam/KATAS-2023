@@ -13,4 +13,4 @@ The user interface should be the richest possible across all deployment platform
 It means that the mobile devices should use GPS (global positioning system) if available.
 
 
-[Go back](../../README.md)
+[Go back](../README.md)

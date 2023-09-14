@@ -13,4 +13,4 @@ Travel updates must be presented in the application within 5 minutes of generati
 The time starts counting when the update request reaches the system.
 
 
-[Go back](../../README.md)
+[Go back](../README.md)

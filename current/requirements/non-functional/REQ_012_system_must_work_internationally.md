@@ -12,4 +12,4 @@ The system must be ready to support different languages and travels all around t
 The system must be available in different countries all over the world.
 
 
-[Go back](../../README.md)
+[Go back](../README.md)
