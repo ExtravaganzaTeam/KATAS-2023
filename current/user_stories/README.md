@@ -17,7 +17,7 @@
 [US_003_call_for_help](traveller/US_003_call_for_help.md)  
 [US_004_select_preferred_travel_agency](traveller/US_004_select_preferred_travel_agency.md)  
 [US_005_share_trip_information](traveller/US_005_share_trip_information.md)  
-[US_006_view_incoming_trips](traveller/US_006_view_incoming_trips.md)  
+[US_006_view_trips](traveller/US_006_view_trips.md)  
 [US_007_get_end-of-year_report](traveller/US_007_get_end-of-year_report.md)  
 [US_008_notification_about_travel_updates](traveller/US_008_notification_about_travel_updates.md)  
 [US_009_set_notification_as_readed](traveller/US_009_set_notification_as_readed.md)  
