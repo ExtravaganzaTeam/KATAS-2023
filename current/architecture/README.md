@@ -30,6 +30,14 @@
 ![Social Media Integration App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/social_media_publisher_app_component.png "a title")
 
 
+## Web Application Component
+
+![Web App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/web_app_component.png "a title")
+
+## Mobile Application Component
+
+![Mobile App Component](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/mobile_app_component.png "a title")
+
 ## Security Context
 
 ![Secirity Context](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/security_context.png "a title")
