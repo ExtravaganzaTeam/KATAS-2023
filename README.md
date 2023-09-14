@@ -7,6 +7,11 @@
 ## Overview
 
 
+## Problem description
+
+Problem description is available here [problem description](current/problem/problem_description.md)  
+
+
 ## Vision
 
 
@@ -16,7 +21,7 @@
 
 ## User stories
 
-User stories are available here [user-stories](current/user_stories/README.md)  
+User stories are available here [user stories](current/user_stories/README.md)  
 
 ## System features
 

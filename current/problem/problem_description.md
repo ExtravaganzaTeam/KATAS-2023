@@ -30,4 +30,4 @@ existing airline, hotel, and car rental interface system to update travel detail
 * Response time from web (800ms) and mobile (First-contentful paint of under 1.4 sec)
 
 
-[Go back](./README.md)
+[Go back](../../README.md)
