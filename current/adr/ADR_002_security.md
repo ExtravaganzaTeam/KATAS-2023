@@ -4,11 +4,11 @@ Security standards
 
 ## Status
 
-proposed
+**proposed**
 
 ## Context
 
-Mobile application and web application must met security standards during designing and implementotion process.
+Mobile application and web application must met security standards during designing and implementation process.
 
 ## Decision
 
