@@ -6,6 +6,7 @@
 
 ## Status
 
+**accepted**
 [proposed, accepted, superseded]
 
 ## Context
