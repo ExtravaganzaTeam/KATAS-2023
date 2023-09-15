@@ -14,7 +14,7 @@ Problem description is available here [problem description](current/problem/prob
 
 ## Vision
 
-
+The project will build the next generation online trip management dashboard available from web and mobile devices and will works better than a competition.
 
 ## Goals and Opportunities
 
@@ -37,9 +37,6 @@ System requirements are available here [requirements](current/requirements/READM
 ## Architecture
 
 The architecture specification is available here [architecture](current/architecture/README.md)  
-
-
-## Milestones
 
 
 ## ADRs
