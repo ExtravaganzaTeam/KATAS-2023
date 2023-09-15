@@ -23,7 +23,7 @@ The following methods are well known but not all of them are secure and perfect 
 
 ## Decision
 
-We have decided to use OpenID Connect mechanism to support Single Sign On functionality.  
+We have decided to use OpenID Connect mechanism and JWT token to support Single Sign On functionality.  
 
 OpenID Connect (OIDC) is an authentication standard built on top of OAuth 2.0. It defines an ID token type to pair with OAuth 2.0 access and refresh tokens. OIDC also standardizes areas that OAuth 2.0 leaves up to choice, such as scopes, endpoint discovery, and the dynamic registration of clients. You can authenticate once and use the refresh token for specified period of time.  
 

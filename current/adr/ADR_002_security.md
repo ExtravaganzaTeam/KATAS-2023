@@ -4,7 +4,7 @@ Security standards
 
 ## Status
 
-**proposed**
+**accepted**
 
 ## Context
 

@@ -37,12 +37,6 @@ User stories are available here [user stories](current/user_stories/README.md)
 System requirements are available here [requirements](current/requirements/README.md)  
 
 
-## Architecture Characteristics
-
-
-## Design Constraints
-
-
 ## Architecture
 
 The architecture specification is available here [architecture](current/architecture/README.md)  
