@@ -25,6 +25,3 @@ We want to avoid problems with different data processing legal notices in differ
 We don't want to store sensitive data. If required should be anonymized.  
 
 All we want is to gather trips, and travelling data, and analytical data. The traveler decides manually to publish its trip details with marked locality points or not.
-
-We don't want to store data (wrazliwe dane).
-storing wrazliwe dane requires a lot to 

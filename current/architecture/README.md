@@ -63,7 +63,7 @@ The security context diagram shows components involved in the authorization proc
 
 ## Deployment Diagram
 
-A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on the infrastructure within given deployment environment (presented for single datacenter deployment, all datacenters have twin deployments). Users devices connects to the system by a load balancing service. Load balancers distribute a set of tasks over a set of resources (computing units). The   
+A deployment diagram allows to illustrate how instances of software systems and/or containers in the static model are deployed on the infrastructure within given deployment environment (presented for single datacenter deployment, all datacenters have twin deployments). Users devices connects to the system by a load balancing service. Load balancers distribute a set of tasks over a set of resources (computing units). Processing components (have 'process' word in their names) included in independently deployable applications scale in and out as a whole application using built-in broker mechanisms and operational level nodes management. Scaling takes place at the level of a separate domain (represented by independently deployable application).  
 
 ![Deployment Diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/deployment_diagram.png "a title")
 
