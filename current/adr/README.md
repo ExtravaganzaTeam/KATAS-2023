@@ -16,5 +16,6 @@
 [ADR_014_full_stack_teams](./ADR_014_full_stack_teams.md)  
 [ADR_015_orchestration](./ADR_015_orchestration.md)  
 [ADR_016_user_interface_architecture_style](./ADR_016_user_interface_architecture_style.md)  
+[ADR_017_authentication_and_authorization](./ADR_017_authentication_and_authorization.md)
 
 [Go back](../../README.md)

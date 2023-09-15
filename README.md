@@ -6,6 +6,7 @@
 
 ## Overview
 
+The following documentation provides a complete architecture solution to the problem described below.
 
 ## Problem description
 
@@ -18,6 +19,14 @@ The project will build the next generation online trip management dashboard avai
 
 ## Goals and Opportunities
 
+The following project goals were identified to reach:  
+* helpful in case of unpredicted circumstances
+* quick access to help travel
+* easy to use user interface
+* integration with existing travel systems
+* integration with social media
+* available 24 hours a day
+* great accompany on your journey
 
 ## User stories
 

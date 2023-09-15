@@ -12,6 +12,8 @@ Data privacy
 
 There are different legal regulations in different countries/regions about storing data in computer systems e.g US, Canada, EU, etc.
 
+[GDPR-Checklist-for-Websites-and-Apps](https://github.com/InspireNL/GDPR-Checklist-for-Websites-and-Apps)  
+
 ## Decision
 
 The application must working internationally and must be deployed in datacenters located on different continents.  
