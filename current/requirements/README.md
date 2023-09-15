@@ -14,7 +14,8 @@
 [REQ_006_remove_comleted_trips](functional/REQ_006_remove_completed_trips.md)  
 [REQ_007_generate_end-of-year_report](functional/REQ_007_generate_end-of-year_report.md)  
 [REQ_008_gather_analytical_data](functional/REQ_008_gather_analytical_data.md)  
-[REQ_009_provide_analytical_data](functional/REQ_009_provide_analytical_data.md)
+[REQ_009_provide_analytical_data](functional/REQ_009_provide_analytical_data.md)  
+[REQ_019_synchronise_trips_data](functional/REQ_019_synchronise_trips_data.md)  
 
 
 ## System Non-functional Requirements

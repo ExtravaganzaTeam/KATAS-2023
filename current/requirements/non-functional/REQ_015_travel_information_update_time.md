@@ -8,7 +8,7 @@ Travel information update time
 
 ## Description
 
-Travel updates must be presented in the application within 5 minutes of generation by the source. 
+Travel updates must be presented in the application within 5 minutes of generation by the source (better than the competition). 
 
 The time starts counting when the update request reaches the system.
 
