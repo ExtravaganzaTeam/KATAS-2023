@@ -63,6 +63,6 @@ The security context diagram shows components involved in the authorization proc
 
 ## Deployment Diagram
 
-A deployment diagram allows to illustrate how instances of software systemsand/or containers in the static model are deployed on the infrastructure within given deployment environment.
+A deployment diagram allows to illustrate how instances of software systemsand/or containers in the static model are deployed on the infrastructure within given deployment environment (single datacenter deployment, all datacenters have twin deployments). 
 
 [Go back](../../README.md)

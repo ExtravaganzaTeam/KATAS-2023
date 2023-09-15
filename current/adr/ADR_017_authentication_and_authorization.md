@@ -31,6 +31,8 @@ For RESTful APIs, token-based authentication is the recommended approach since i
 
 For Single-Page Applications (SPA) running in modern browsers that support Web Crypto for PKCE the recommended is authorization code flow with PKCE. The implicit flow should not be used because it lowers security.  
 
+We recoment to use multi factor authentication mechanism. A multi-step account login process requires users to enter more information than just a password. For example, along with the password, users might be asked to enter a code sent to their email, answer a secret question, or scan a fingerprint.  
+
 ## Consequences
 
 Every request to the application needs the JWT token be attached to HTTP header. The HTTP header has its own size restrictions so the JWT size must meet them to be transferred with HTTP request.  
