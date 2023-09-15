@@ -1,5 +1,3 @@
-[short text file; 1-2 pages long, one file per decision]
-
 # Title
 
 Data synchronisation
@@ -10,8 +8,6 @@ Data synchronisation
 
 ## Context
 
-[description of the problem and alternative solutions available (documentation)]
-
 The traveler is travelling all over the world. The system is deployed to multiple datacenters spreaded geographically between different continents.
 The problem is how to synchronise data between datacenters for people travelling overseas.
 
@@ -20,15 +16,11 @@ We can synchronise only part of data we need at the moment.
 
 ## Decision
 
-[decision and justification (the “why”)]
-
 We decided to synchronise only part of the data about current journey undertaken by a traveler. When the traveler is "back home" (the trip has finished) the data is moved to the desitnation datacenter.  
 
 The data travels with the traveler.
 
 ## Consequences
-
-[trade-offs and impact of decision]
 
 Some mechanism of data synchronisation is required.  
 

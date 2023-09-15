@@ -26,3 +26,5 @@ We decided to use kubernetes orchestration tool to ease application deployment a
 
 [trade-offs and impact of decision]
 The kubernetes infrastructure is rich but requires quite a lot of attention. It is not a 'fire-and-forget' solution. Tools are powerful but sometimes difficult to use. Additional knowledge is required.
+
+Considered cloud providers must support this class of solutions.
