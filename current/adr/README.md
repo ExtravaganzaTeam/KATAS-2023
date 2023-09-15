@@ -1,17 +1,20 @@
 # Architecture Decision Records space
 
 [ADR_001_architecture_style_backend](./ADR_001_architecture_style_backend.md)  
-[ADR_002_security](ADR_002_security.md)  
-[ADR_003_architecture_style_ui](./ADR_003_architecture_style_ui.md)  
+[ADR_002_security](./ADR_002_security.md)  
+[ADR_003_web_user_interface_architecture_style](./ADR_003_web_user_interface_architecture_style.md)  
 [ADR_004_time_zone](./ADR_004_time_zone.md)  
 [ADR_005_data_distribution](./ADR_005_data_distribution.md)  
 [ADR_006_data_storage](./ADR_006_data_storage.md)  
-[ADR_007_data_synchronization](./ADR_007_data_synchronization.md)  
+[ADR_007_data_synchronization](./ADR_007_data_synchronisation.md)  
 [ADR_008_datacenter_solution](./ADR_008_datacenter_solution.md)  
 [ADR_009_containerization](./ADR_009_containerization.md)  
 [ADR_010_auto_scaling](./ADR_010_auto_scaling.md)  
 [ADR_011_environments](./ADR_011_environments.md)  
-
-
+[ADR_012_versioning](./ADR_012_versioning.md)  
+[ADR_013_data_privacy](./ADR_013_data_privacy.md)  
+[ADR_014_full_stack_teams](./ADR_014_full_stack_teams.md)  
+[ADR_015_orchestration](./ADR_015_orchestration.md)  
+[ADR_016_user_interface_architecture_style](./ADR_016_user_interface_architecture_style.md)  
 
 [Go back](../../README.md)
