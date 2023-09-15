@@ -7,7 +7,7 @@ we want to avoid problems with different data processin legal noticies () in dif
 
 administratorzy danych osobowych
 
-ALl we want is to gather trips, and travelling data, and analytical data. The traveller decides manually to publish its trip details with marked locality points or not.
+ALl we want is to gather trips, and travelling data, and analytical data. The traveler decides manually to publish its trip details with marked locality points or not.
 
 There are different legal regulations in different countries/regions e.g US, Canada, EU, etc.
 

@@ -15,7 +15,7 @@ There is always some confusion how to support time in distributed applications a
 
 We decided to use Coordinated Universal Time (UTC) for the whole backend system spreaded across multiple datacenters to facilitate the process of synchronization and data management on the server side. This approach reduces the likelihood of making an error when processing time data.
 
-We decided to use local user time for user application interface to not cause confusion for application users. People operate in their local time zone. The user application interface should have functionality to change the time zone to one the traveller is currenty located.
+We decided to use local user time for user application interface to not cause confusion for application users. People operate in their local time zone. The user application interface should have functionality to change the time zone to one the traveler is currenty located.
 
 ## Consequences
 

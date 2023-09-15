@@ -13,7 +13,7 @@ Data distribution between datacenters
 [description of the problem and alternative solutions available (documentation)]
 
 The application must work internationally.
-Travellers are travelling overseas very ofter. To avoid a communication latency problem existing between end user device and datacenter some mechanism of application distribution between different datacenters located on different continents is required.
+Travelers are travelling overseas very ofter. To avoid a communication latency problem existing between end user device and datacenter some mechanism of application distribution between different datacenters located on different continents is required.
 
 ## Decision
 
