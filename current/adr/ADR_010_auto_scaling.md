@@ -1,24 +1,23 @@
-[short text file; 1-2 pages long, one file per decision]
-
 # Title
 
-[short noun phrase]
+Auto scaling
 
 ## Status
 
-[proposed, accepted, superseded]
+**accepted**
 
 ## Context
 
-[description of the problem and alternative solutions available (documentation)]
+There is only average number of active users per week non-functional requirement given. There is no exact information how the load will be spreaded during the week or day. There is no information about load peaks.  
+
+To be prepared on a temporary increase in resource utilization some mechanism of auto scaling is required on production environment.
 
 ## Decision
 
-[decision and justification (the “why”)]
+We diecided to use auto scaling of services to increase or decrease the desired number of servers nodes required to manage expected load. Supporting larger number of nodes running than needed all the time is not cost efficient at all. When the load decreases server nodes are released.
+
+It addresses local load peaks problem.
 
 ## Consequences
 
-[trade-offs and impact of decision]
-
-
-We decided to use kubernetes to autoscale application components deployed to different custers nodes to address load peaks and optimization of maintenance cost.
+We need to prepare application for auto scaling capabilities. One of the advises is to use a stateless services.
