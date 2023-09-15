@@ -1,41 +1,19 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to select data sources to scan travel-related emails, so I want to activate or deactivate specified sources of information.  
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler selected not to scan email sorce for travel-related emails. The system updated the configuration. The new travel-related email appeared in the email system. The sytem skipped the incomming email. No data related to trip has been imported.
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the traveler views trip information in a dashboard he doesn't see the travel-related data from the email appeared.
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
+#### Request processing diagram
+
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_010_select_scan_sources.png "a title")  
 
 
 ### Notes
-
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
-
-
-#### Business Process Diagram
-
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_010_select_scan_sources.png "a title")  
 
 
 [Go back](../README.md)

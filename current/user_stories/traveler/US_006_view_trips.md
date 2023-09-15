@@ -1,40 +1,18 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to see trips, so I want the trip data be visible in a dashboard.
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: There are incoming or ongoing trips registered in the system for a traveler. The traveler asked for trips data.
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the traveler sees dashboard the trips are shown.
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
-
-
-### Notes
-
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
-
-#### Business Process Diagram
+#### Request processing diagram
 
 ![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_006_view_trips.png "a title")  
+
+### Notes
 
 
 [Go back](../README.md)

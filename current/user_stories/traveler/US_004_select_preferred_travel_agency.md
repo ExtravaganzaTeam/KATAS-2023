@@ -1,41 +1,18 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to select preferred agency, so I want to have call for help functionality active.  
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler selects preferred agency by sending contact telephone number. The system registers the agency's telephone number.
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the traveler wants to call for help from his mobile device, he sees the function is active and ready to use.
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
-
-
-### Notes
-
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
-
-
-#### Business Process Diagram
+#### Request processing diagram
 
 ![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_004_select_preferred_travel_agency.png "a title")  
+
+### Notes
 
 
 [Go back](../README.md)

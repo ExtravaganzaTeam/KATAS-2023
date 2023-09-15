@@ -1,41 +1,22 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to share trips information, so I want it to be available on social media or for targeted person.  
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler selected a targeted person to share trip information and confirmed his intention. The system prepared and sent trip information to targeted person.  
 
-[
-Also, here are a few points that need to be addressed:
+When the targeted person views shared trip information on his device he sees the one selected by traveler to share.  
 
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
+Scenario: The traveler selected to share trip information on social media. The system prepared and sent trip information to supported social media systems.  
 
+When the traveler views his social media account he sees shared trip information published.  
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
-
-
-### Notes
-
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
-
-
-#### Business Process Diagram
+#### Request processing diagram
 
 ![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_005_share_trip_information.png "a title")  
+
+### Notes
 
 
 [Go back](../README.md)

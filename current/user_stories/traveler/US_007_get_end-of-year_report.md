@@ -1,35 +1,15 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to get end-of-year summary report, so I want to see the report on my device.
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler requested for end-of-year summary report. The system generated unique link to the report file.
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the traveler used the received link the end-of-year summary report started to download to his device.
 
 ### Resources:
-
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
 
 
 ### Notes
 
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
 
 [Go back](../README.md)

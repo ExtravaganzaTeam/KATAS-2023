@@ -1,36 +1,15 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a travel agent, I want to receive ask for help telephone call, so I want to help the traveler to solve his problem.  
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler started calling for help from the preferred travel agency.  
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the travel agent picked up the phone he can help the traveler to solve his problem.  
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
-
 
 ### Notes
-
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
 
 
 [Go back](../README.md)
