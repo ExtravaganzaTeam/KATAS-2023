@@ -10,7 +10,7 @@ When the traveler views trip information in a dashboard does not see the item of
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_013_delete_existing_reservation.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_013_delete_existing_reservation.png "a title")  
 
 
 ### Notes

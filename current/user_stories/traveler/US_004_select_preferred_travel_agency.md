@@ -10,7 +10,7 @@ When the traveler wants to call for help from his mobile device, he sees the fun
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_004_select_preferred_travel_agency.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_004_select_preferred_travel_agency.png "a title")  
 
 ### Notes
 

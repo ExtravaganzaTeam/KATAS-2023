@@ -10,7 +10,7 @@ When the traveler sees dashboard the trips are shown.
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_006_view_trips.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_006_view_trips.png "a title")  
 
 ### Notes
 

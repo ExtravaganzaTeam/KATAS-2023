@@ -10,7 +10,7 @@ When the traveler views trip information in a dashboard he doesn't see the trave
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_010_select_scan_sources.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_010_select_scan_sources.png "a title")  
 
 
 ### Notes

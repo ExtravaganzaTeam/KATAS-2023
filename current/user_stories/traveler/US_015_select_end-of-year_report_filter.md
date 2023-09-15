@@ -10,7 +10,7 @@ When the traveler views the generated report only selected metrics are included 
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_015_select_end-of-year_report_filter.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_015_select_end-of-year_report_filter.png "a title")  
 
 
 ### Notes

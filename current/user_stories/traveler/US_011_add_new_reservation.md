@@ -10,7 +10,7 @@ When the traveler views trip information in a dashboard sees the new reservation
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_011_add_new_reservation.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_011_add_new_reservation.png "a title")  
 
 ### Notes
 

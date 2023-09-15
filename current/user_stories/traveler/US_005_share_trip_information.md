@@ -14,7 +14,7 @@ When the traveler views his social media account he sees shared trip information
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_005_share_trip_information.png "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_005_share_trip_information.png "a title")  
 
 ### Notes
 
