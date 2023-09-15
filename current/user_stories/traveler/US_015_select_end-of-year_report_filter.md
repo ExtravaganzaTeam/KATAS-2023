@@ -1,40 +1,21 @@
-[
-The user story should have a reason to exist: what do I need as the user described in the summary?
-This part details any detail that could not be passed by the summary.
-]
-
+As a traveler, I want to select report filtering criteria, so I want to decide what I will see on the end-of-year summary raport.
 
 ### Acceptance Criteria
 
-1. [If I do A.]
-1. [B should happen.]
+Scenario: The traveler travel usage metrics has been gathered by system. The custom filtering criteria has been selected by traveler. The system generated end-of-year summary raport.
 
-[
-Also, here are a few points that need to be addressed:
-
-1. Constraint 1;
-1. Constraint 2;
-1. Constraint 3.
-]
-
+When the traveler views the generated report only selected metrics are included in it.
 
 ### Resources:
 
-* Mockups: [Here goes a URL to or the name of the mockup(s) in inVision];
-* Testing URL: [Here goes a URL to the testing branch or IP];
-* Staging URL: [Here goes a URL to the feature on staging];
+#### Request processing diagram
+
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_015_select_end-of-year_report_filter.png "a title")  
 
 
 ### Notes
 
-[Some complementary notes if necessary:]
-
-* > Here goes a quote from an email
-* Here goes whatever useful information can exist…  
-
-#### Business Process Diagram
-
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveller/US_015_select_end-of-year_report_filter.png "a title")  
+A wide range of metrics about traveler travel usage is gathered by the system. There is no exact list of these metrics specified.  
 
 
 [Go back](../README.md)
