@@ -15,7 +15,8 @@
 [ADR_013_data_privacy](./ADR_013_data_privacy.md)  
 [ADR_014_full_stack_teams](./ADR_014_full_stack_teams.md)  
 [ADR_015_orchestration](./ADR_015_orchestration.md)  
-[ADR_016_user_interface_architecture_style](./ADR_016_user_interface_architecture_style.md)  
-[ADR_017_authentication_and_authorization](./ADR_017_authentication_and_authorization.md)
+[ADR_016_user_interface_architecture_style](./ADR_016_user_interface_architecture_style.md)    
+[ADR_017_authentication_and_authorization](./ADR_017_authentication_and_authorization.md)  
+[ADR_018_internal_throughput](./ADR_018_internal_throughput.md)  
 
 [Go back](../../README.md)
