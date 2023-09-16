@@ -8,7 +8,7 @@ Continuous practices
 
 ## Context
 
-[description of the problem and alternative solutions available (documentation)]
+The described issue was classified as an architectural decision because it comes directly from adopted software architecutre. The choice of software architecture influences the set of best practices that should be adopted in the project.  
 
 Continuous practices are very important nowadays in software development process.  
 
