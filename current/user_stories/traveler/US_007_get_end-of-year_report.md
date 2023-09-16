@@ -10,7 +10,7 @@ When the traveler used the received link the end-of-year summary report started 
 
 #### Request processing diagram
 
-![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_007_get_end-of-year_report "a title")  
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/user_stories/traveler/US_007_get_end-of-year_report.png "a title")  
 
 
 ### Notes
