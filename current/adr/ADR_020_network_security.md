@@ -37,4 +37,6 @@ As mentioned above, the systems in the DMZ are still exposed to the Internet and
 
 Ensure these devices are hardened using industry-recognized benchmarks. We recommend the Center for Internet Security (CIS) Benchmarks located here.
 Use different passwords on these systems than other systems. When an attacker compromises a system, they can dump the contents of memory, which may include passwords.  
-Perform regular penetration tests to validate the effectiveness of your controls. This should include external penetration tests to see the exposure of the systems in the DMZ as well as segmentation validation testing that assesses whether an attacker can pivot into the internal network.
+Perform regular penetration tests to validate the effectiveness of your controls. This should include external penetration tests to see the exposure of the systems in the DMZ as well as segmentation validation testing that assesses whether an attacker can pivot into the internal network.  
+
+[Go back](./README.md)

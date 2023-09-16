@@ -18,3 +18,5 @@ Several factors can affect page load speed. Here are some of the best methods:
 * Lessen HTTP requests - reducing requests is the ultimate goal of page load optimization,
 * Reduce server response time - hosting server plays a crucial role in load time, so knowing whether you have the best setup goes a long way,
 * Consider implementing a CDN - content delivery networks are perfect for pages that serve many international locations or are looking for a speed boost to their regular hosting service. They vastly reduce request times by hosting your files across an extensive network of global servers.  
+
+[Go back](../README.md)
