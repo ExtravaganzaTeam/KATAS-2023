@@ -23,7 +23,7 @@ Analyzing the functional requirements, we distinguished the following components
 * report generator - is responsible for generating end-of-year summary reports,  
 * analytical data provider process - is responsible for providing analytical data to external systems (the application's primary source of income).  
 
-All of the distinguished components operates on the same analytical database which stores analytical data about trips and optional filtering report criteria for traveler.  
+All of the distinguished components operate on the same analytical database which stores analytical data about trips and optional filtering report criteria for traveler.  
 
 They are all grouped in one independently deployable unit but are ready to perform next decomposition after learning more about the business domain and performing first performance tests.  
 

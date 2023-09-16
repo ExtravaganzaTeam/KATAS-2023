@@ -23,7 +23,7 @@ Analyzing the functional requirements, we distinguished the following components
 * trip dashboard data provider process - is responsible for providing data to dashboard the traveler can see on his device or in web browser,  
 * problem reporter process - is responsible for registering and managing preferred travel agency telephone number.  
 
-All of the distinguished components operates on the same operational database which stores trips data and preferred travel agency telephone number in one, separate, database schema.
+All of the distinguished components operate on the same operational database which stores trips data and preferred travel agency telephone number in one, separate, dedicated for the domain database schema.
 
 They are all grouped in one independently deployable unit but are ready to perform next decomposition after learning more about the business domain and performing first performance tests.  
 

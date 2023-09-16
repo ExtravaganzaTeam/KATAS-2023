@@ -19,7 +19,7 @@ Analyzing the functional requirements, we distinguished the following components
 * travel change capture process - is responsible for storing and removing notifications when the specified events occured in system,  
 * travel change notifier process - is responsible for instant notification about travel changes. It returns notifications after user application starts and reloads as well.  
 
-All of the distinguished components operates on the same operational database which stores notifications.  
+All of the distinguished components operates on the same operational database which stores notifications in one, separate, dedicated for the domain database schema.  
 
 They are all grouped in one independently deployable unit but are ready to perform next decomposition after learning more about the business domain and performing first performance tests.  
 
