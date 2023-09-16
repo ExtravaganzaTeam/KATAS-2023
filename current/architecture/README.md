@@ -63,7 +63,7 @@ The security context diagram shows components involved in the authentication and
 
 ## Network Security Context
 
-The network security context diagram shows components involved in the multi-layer network security architecture. It is worth to noting the use of a broker introduces an additional layer of protection because the active elements are processors, not the broker itself, so a request sent from outside does not directly affect its processing. The processor is the element that initiates communication, not an external service as is the case with direct network communication.  
+The network security context diagram shows components involved in the multi-layer network security architecture. It is worth to noting the use of a broker introduces an additional layer of protection because the active elements are processors, not the broker itself (which is passive component in communication), so a request sent from outside does not directly affect its processing. The processor is the element that initiates communication, not an external service as is the case with direct network communication.  
 
 Any traffic from the internet will go through a firewall to access the web server in the DMZ. Any traffic from the DMZ must also go through a firewall to access the internal network. This can be the same firewall with a separate interface and access control list, however, it could be two physically separate firewalls.  
 
