@@ -21,3 +21,5 @@ To optimise application throughput in local datacenter network we decided to not
 ## Consequences
 
 Components connected to broker directly must be prepared for processing events in groups. Possible failure of a broker or a component will result in the need to process the group of events again. Events payload must be immutable.  
+
+[Go back](./README.md)
