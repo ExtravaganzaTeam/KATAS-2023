@@ -48,3 +48,5 @@ To guarantee an availability close to 100% it is necessary to implement a replic
 
 Higher maintenance cost for databases management itself and for data replicas synchronisation after failures.  
 Database failover takes some time and is not immediate.  
+
+[Go back](./README.md)
