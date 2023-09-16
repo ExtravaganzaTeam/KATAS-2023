@@ -67,7 +67,7 @@ The network security context diagram shows components involved in the multi-laye
 
 Any traffic from the internet will go through a firewall to access the web server in the DMZ. Any traffic from the DMZ must also go through a firewall to access the internal network. This can be the same firewall with a separate interface and access control list, however, it could be two physically separate firewalls.  
 
-Communication to File server and E-mail System pass through its own dedicated load balancers not shown on the diagram.  
+Communication to File server and E-mail System pass through its own dedicated load balancers not shown on the diagram because both components come from external vendors.  
 
 ![Network Secirity Context](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/network_security_context.png "a title")
 
