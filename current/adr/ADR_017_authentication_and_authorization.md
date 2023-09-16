@@ -37,4 +37,11 @@ We recoment to use multi factor authentication mechanism. A multi-step account l
 
 Every request to the application needs the JWT token be attached to HTTP header. The HTTP header has its own size restrictions so the JWT size must meet them to be transferred with HTTP request.  
 
+### Resources:
+
+#### Request processing diagram
+
+![Dynamic diagram](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/security_context.png "a title")  
+
+
 [Go back](./README.md)
