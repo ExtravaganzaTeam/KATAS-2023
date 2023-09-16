@@ -57,9 +57,15 @@ A mobile application component diagram zooms into an idividual container, showin
 
 ## Security Context
 
-The security context diagram shows components involved in the authorization process. The Identity Provider Service manages user accounts.  
+The security context diagram shows components involved in the authentication and authorization process. The Identity Provider Service manages user accounts.  
 
 ![Secirity Context](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/security_context.png "a title")
+
+## Network Security Context
+
+The network security context diagram shows components involved in the multi-layer network security architecture. It is worth to noting the use of a broker introduces an additional layer of protection because the active elements are processors, not the broker itself, so a request sent from outside does not directly affect its processing. The processor is the element that initiates communication, not an external service as is the case with direct network communication.  
+
+![Network Secirity Context](https://github.com/ExtravaganzaTeam/KATAS-2023/blob/main/current/architecture/network_security_context.png "a title")
 
 ## Deployment Diagram
 
