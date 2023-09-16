@@ -39,7 +39,7 @@ For distributed databases like Cassandra replication takes place in both directi
 
 We have decided to scale operational database to more than one node in one datacenter to support higher load and availability.  
 We have decided to scale analytical database to more than one node in one dataceter to support higher load and availability.  
-We don't take under consideration whole operational databasese replication between datacenters located on different continents (only current trip data travels with traveler).  
+We don't take under consideration whole operational databasese replication between datacenters located on different continents (only current and incomming trip data travels with traveler, if they are related to the trip).  
 Analytical data is not replicated between analytical databases in datacenters located on different continents.  
 
 To guarantee an availability close to 100% it is necessary to implement a replica system that allows us to ensure that clients can work with another server when the main database server has to be disconnected to carry out maintenance tasks or expansion tasks. Anothre feature this replica system enables is that in the event of an uncontrolled drop in service, clients have another server to work with while the problem is resolved.  
