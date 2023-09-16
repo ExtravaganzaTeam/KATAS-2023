@@ -26,3 +26,5 @@ The UTC time is transformed to local user time when shown in user application in
 The time format must include time zone as well.  
 
 The data synchronization application do not transform time between timezones when replicates travelling data.
+
+[Go back](./README.md)

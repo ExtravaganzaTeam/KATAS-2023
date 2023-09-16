@@ -26,4 +26,6 @@ For integration tasks developers should connect to staging environment. If it wi
 
 ## Consequences
 
-Increased infrastructure complexity. Higher infrastructure cost.
+Increased infrastructure complexity. Higher infrastructure cost.  
+
+[Go back](./README.md)

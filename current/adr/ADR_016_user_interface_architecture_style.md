@@ -36,3 +36,5 @@ We have decided to use binary protocol (protobuf) because of the possible networ
 ## Consequences
 
 The main concern with the shared BFF for mobile devices model is that the more types of clients you have using a single BFF, the more temptation there may be for the BFF to become bloated by handling multiple concerns.  
+
+[Go back](./README.md)

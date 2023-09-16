@@ -22,4 +22,6 @@ The amount of analytical data can grow at a much higher rate than the operationa
 
 The use of various data storage solutions requires the team to acquire the required knowledge if it does not already have it.
 
-The overall maintenance cost is higher.
+The overall maintenance cost is higher.  
+
+[Go back](./README.md)

@@ -18,4 +18,6 @@ We don't gather sensitive data so we can easily apply cloud solution.
 
 ## Consequences
 
-There is always some time required to learn new tools but it is shorter than time required to manage the infrastructure on our own in longer period.
+There is always some time required to learn new tools but it is shorter than time required to manage the infrastructure on our own in longer period.  
+
+[Go back](./README.md)

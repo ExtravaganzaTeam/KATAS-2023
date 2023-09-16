@@ -25,3 +25,5 @@ The widget decomposition pattern is incredibly useful if you are building a rich
 There is still a need of some sort of assembly layer to pull widgets together. This could be as simple as making use of server-side or client-side templates.  
 
 You can incrementally update the frontent UI (each widget separately) but you can end up with a lot of duplicatio between dependencies, which in turn can lead to a large bloat in terms of page load size. A simple small change in the dependencies of one widget could result in a whole host of new dependencies being included in the application, drastically inflating the page size.  
+
+[Go back](./README.md)

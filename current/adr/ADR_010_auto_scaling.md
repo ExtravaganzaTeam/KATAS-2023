@@ -20,4 +20,6 @@ It addresses local load peaks problem.
 
 ## Consequences
 
-We need to prepare application for auto scaling capabilities. One of the advises is to use a stateless services.
+We need to prepare application for auto scaling capabilities. One of the advises is to use a stateless services.  
+
+[Go back](./README.md)

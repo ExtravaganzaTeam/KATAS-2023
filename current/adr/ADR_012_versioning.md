@@ -28,4 +28,6 @@ Developers find it easier to work with a semantic versioning scheme because it i
 
 As a project grows, more considerations have to be made to define a versioning scheme that communicates effectively with users.
 
-To release applications consist of multiple compoenents with different versions, it is needed to apply version management mechanism to know exactly what version of the component should be a part of a release.
+To release applications consist of multiple compoenents with different versions, it is needed to apply version management mechanism to know exactly what version of the component should be a part of a release.  
+
+[Go back](./README.md)

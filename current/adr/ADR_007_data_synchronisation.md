@@ -26,4 +26,6 @@ Some mechanism of data synchronisation is required.
 
 When the traveler changes his "home location" because he moves overseas his data needs to be transfered to a new "home location" as well.  
 
-The generation of reports is easier because analytical data are strored always in datacenter located on the same continent.
+The generation of reports is easier because analytical data are strored always in datacenter located on the same continent.  
+
+[Go back](./README.md)

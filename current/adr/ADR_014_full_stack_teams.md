@@ -22,4 +22,6 @@ For non full-stack teams a lack of direct connection and communication with a cu
 
 People with required skills in different software development areas are needed to build a full-stack team.
 
-Full-stack developers are great but very rare on the market.
+Full-stack developers are great but very rare on the market.  
+
+[Go back](./README.md)

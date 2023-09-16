@@ -27,4 +27,6 @@ We decided to transfer only travelling data (from operational database) batween 
 ## Consequences
 
 [trade-offs and impact of decision]
-The synchyronization application component must be maintained to support different versions of communication protocol (it is not possible to update all synchronization components deployed to all datacenters in the same time).
+The synchyronization application component must be maintained to support different versions of communication protocol (it is not possible to update all synchronization components deployed to all datacenters in the same time).  
+
+[Go back](./README.md)
