@@ -20,5 +20,6 @@
 [ADR_018_internal_throughput](./ADR_018_internal_throughput.md)  
 [ADR_019_external_latency](./ADR_019_external_latency.md)  
 [ADR_020_network_security](./ADR_020_network_security.md)  
+[ADR_021_database_availability](./ADR_021_database_availability.md)  
 
 [Go back](../../README.md)
